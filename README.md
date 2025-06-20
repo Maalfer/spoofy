@@ -33,8 +33,7 @@ Instálalos con:
 
 ```bash
 sudo apt update
-sudo apt install python3-pip
-pip3 install scapy netifaces
+sudo apt install -y python3-scapy python3-tkinter python3-netifaces
 sudo python3 spoofy.py
 ```
 
