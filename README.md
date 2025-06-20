@@ -6,6 +6,8 @@ Una herramienta de ataque Man-in-the-Middle (MITM) con interfaz gráfica, desarr
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)  
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 
+![image](https://github.com/user-attachments/assets/56a59e57-a875-42b6-b096-b6943a363d2d)
+
 ---
 
 ## ✨ Funcionalidades
